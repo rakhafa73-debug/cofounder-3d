@@ -1,0 +1,6 @@
+{
+  "name": "COFOUNDER 3D",
+  "description": "AI Virtual Co-Founder & Autonomous Virtual Office Platform with 3D interactive office and real multi-agent team.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
